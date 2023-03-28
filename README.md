@@ -1,8 +1,5 @@
 # Level 4 Task 8 -SQL Server in PHP
 
-## NOTE
-
-I have committed the "secret.php" file for the purpose of uploading my projects, but standard practice this should not be uploaded.
 
 ## Task 1
 
